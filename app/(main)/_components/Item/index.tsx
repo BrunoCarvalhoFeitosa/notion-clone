@@ -47,7 +47,7 @@ const Item = ({
         if (!id) return
 
         const promise = archive({ id })
-            .then((documentId) => router.push(`/documents/${documentId}`))
+            .then(() => router.push(`/documents`))
 
         toast.promise(promise, {
             loading: "Movendo para lixeira...",
