@@ -44,7 +44,7 @@ const Menu = ({ documentId }: MenuProps) => {
                 className="max-w-60 md:max-w-[520px]"
                 forceMount
             >
-                <DropdownMenuItem>
+                <DropdownMenuItem onClick={onArchive}>
                     <div className="flex items-center gap-x-1">
                         <div>
                             <TrashIcon className="w-4 h-4" />
