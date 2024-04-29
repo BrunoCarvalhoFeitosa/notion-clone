@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/BrunoCarvalhoFeitosa/airbnb-clone">
-    <img src="public\images\common\fav.png" alt="Logo" width="200" weight="200" />
+  <a href="https://github.com/BrunoCarvalhoFeitosa/notion-clone">
+    <img src="public\images\common\fav.png" alt="Logo" width="100" weight="100" />
   </a>
 
   <p align="center">
